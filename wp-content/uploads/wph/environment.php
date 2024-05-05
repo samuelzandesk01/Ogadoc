@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"astra","mapped_name":"tdcmax"},"allowed_paths":["\/home\/ogadoc\/public_html\/wp-content\/themes"],"cache_path":"\/home\/ogadoc\/public_html\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>

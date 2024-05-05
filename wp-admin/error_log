@@ -1,0 +1,67 @@
+[08-Aug-2023 21:33:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function W3TC\Util_Environment::is_dbcluster(), 0 passed in /home/ogadoc/public_html/wp-content/db.php on line 30 and exactly 1 expected in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php:176
+Stack trace:
+#0 /home/ogadoc/public_html/wp-content/db.php(30): W3TC\Util_Environment::is_dbcluster()
+#1 /home/ogadoc/public_html/wp-includes/load.php(666): require_once('/home/ogadoc/pu...')
+#2 /home/ogadoc/public_html/wp-settings.php(124): require_wp_db()
+#3 /home/ogadoc/public_html/wp-config.php(81): require_once('/home/ogadoc/pu...')
+#4 /home/ogadoc/public_html/wp-load.php(50): require_once('/home/ogadoc/pu...')
+#5 /home/ogadoc/public_html/wp-admin/upgrade.php(18): require('/home/ogadoc/pu...')
+#6 {main}
+  thrown in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php on line 176
+[10-Aug-2023 10:26:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function W3TC\Util_Environment::is_dbcluster(), 0 passed in /home/ogadoc/public_html/wp-content/db.php on line 30 and exactly 1 expected in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php:176
+Stack trace:
+#0 /home/ogadoc/public_html/wp-content/db.php(30): W3TC\Util_Environment::is_dbcluster()
+#1 /home/ogadoc/public_html/wp-includes/load.php(666): require_once('/home/ogadoc/pu...')
+#2 /home/ogadoc/public_html/wp-settings.php(124): require_wp_db()
+#3 /home/ogadoc/public_html/wp-config.php(81): require_once('/home/ogadoc/pu...')
+#4 /home/ogadoc/public_html/wp-load.php(50): require_once('/home/ogadoc/pu...')
+#5 /home/ogadoc/public_html/wp-admin/upgrade.php(18): require('/home/ogadoc/pu...')
+#6 {main}
+  thrown in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php on line 176
+[10-Aug-2023 10:26:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function W3TC\Util_Environment::is_dbcluster(), 0 passed in /home/ogadoc/public_html/wp-content/db.php on line 30 and exactly 1 expected in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php:176
+Stack trace:
+#0 /home/ogadoc/public_html/wp-content/db.php(30): W3TC\Util_Environment::is_dbcluster()
+#1 /home/ogadoc/public_html/wp-includes/load.php(666): require_once('/home/ogadoc/pu...')
+#2 /home/ogadoc/public_html/wp-settings.php(124): require_wp_db()
+#3 /home/ogadoc/public_html/wp-config.php(81): require_once('/home/ogadoc/pu...')
+#4 /home/ogadoc/public_html/wp-load.php(50): require_once('/home/ogadoc/pu...')
+#5 /home/ogadoc/public_html/wp-admin/upgrade.php(18): require('/home/ogadoc/pu...')
+#6 {main}
+  thrown in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php on line 176
+[10-Aug-2023 10:26:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function W3TC\Util_Environment::is_dbcluster(), 0 passed in /home/ogadoc/public_html/wp-content/db.php on line 30 and exactly 1 expected in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php:176
+Stack trace:
+#0 /home/ogadoc/public_html/wp-content/db.php(30): W3TC\Util_Environment::is_dbcluster()
+#1 /home/ogadoc/public_html/wp-includes/load.php(666): require_once('/home/ogadoc/pu...')
+#2 /home/ogadoc/public_html/wp-settings.php(124): require_wp_db()
+#3 /home/ogadoc/public_html/wp-config.php(81): require_once('/home/ogadoc/pu...')
+#4 /home/ogadoc/public_html/wp-load.php(50): require_once('/home/ogadoc/pu...')
+#5 /home/ogadoc/public_html/wp-admin/upgrade.php(18): require('/home/ogadoc/pu...')
+#6 {main}
+  thrown in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php on line 176
+[10-Aug-2023 10:38:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function W3TC\Util_Environment::is_dbcluster(), 0 passed in /home/ogadoc/public_html/wp-content/db.php on line 30 and exactly 1 expected in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php:176
+Stack trace:
+#0 /home/ogadoc/public_html/wp-content/db.php(30): W3TC\Util_Environment::is_dbcluster()
+#1 /home/ogadoc/public_html/wp-includes/load.php(666): require_once('/home/ogadoc/pu...')
+#2 /home/ogadoc/public_html/wp-settings.php(124): require_wp_db()
+#3 /home/ogadoc/public_html/wp-admin/setup-config.php(33): require('/home/ogadoc/pu...')
+#4 {main}
+  thrown in /home/ogadoc/public_html/wp-content/plugins/w3-total-cache/Util_Environment.php on line 176
+[22-Jan-2024 13:49:57 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[23-Jan-2024 13:33:43 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[23-Jan-2024 13:37:40 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[23-Jan-2024 13:37:41 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[23-Jan-2024 13:37:42 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[23-Jan-2024 13:40:12 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[24-Jan-2024 13:40:06 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[25-Jan-2024 00:26:25 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[25-Jan-2024 00:26:27 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[25-Jan-2024 13:38:57 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[25-Jan-2024 17:25:01 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[26-Jan-2024 14:04:44 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[26-Jan-2024 21:31:00 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[27-Jan-2024 13:41:55 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[28-Jan-2024 14:03:26 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[29-Jan-2024 02:01:23 UTC] /home/ogadoc/public_html/wp-content/plugins/astra-sites/inc/lib/zip-ai/zip-ai.php
+[23-Apr-2024 22:38:11 UTC] BLOCK: Getting Spectra Common CSS
+[23-Apr-2024 22:38:11 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/spectra-common-styles
+[24-Apr-2024 00:23:00 UTC] BLOCK: Getting Spectra Common CSS
